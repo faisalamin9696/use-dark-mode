@@ -45,8 +45,8 @@
     "jest": "^23.6.0",
     "jest-dom": "^3.0.0",
     "microbundle": "^0.9.0",
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-testing-library": "^5.5.0",
     "rimraf": "^2.6.2"
   },
